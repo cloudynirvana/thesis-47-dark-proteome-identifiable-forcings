@@ -1,0 +1,3 @@
+## Non-claims / Disclaimer
+
+This manuscript is part of an independent computational research series (Project Confluence). The author, Kelechi Emeka Ogbonna, is an independent researcher. This work builds upon the format of Nile University of Nigeria's B.Sc. project structure but is not submitted for academic credit or degree requirements at Nile University or any other institution. The models, parameters, and findings presented herein are theoretical and computational in nature. They do not constitute medical, clinical, or diagnostic advice. "Thesis Zero" and subsequent numerical designations (e.g., T01, T07, T47) refer to an internal series tracking system and do not denote official university publications.
